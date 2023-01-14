@@ -17,7 +17,3 @@ To merge branch switch to an "integration" branch and use git merge feature-bran
 To delete a branch, we supply the -d (or --delete) flag to git branch along with the name of the branch we wish to delete
 
 git branch -d branch-name
-
-what's now?
-
-and now?
