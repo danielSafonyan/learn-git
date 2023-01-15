@@ -1,1 +1,13 @@
 git log command show the a list, history of your commits. To navigate it use up and down arrows and to exit press q.
+
+git log --abbrev-commit truncates the commit id.
+
+git log --pretty=oneline formats the output, cretes a one-liner.
+
+git log --pretty=oneline --abbrev-commit creates one-liners and truncates commit id.
+
+git log --oneline produces consize command to produce the ouput above.
+
+git log --oneline --all --graph shows us all commits across all branches.
+
+git diff comand ran in the repository compares the respository in index (commited) with the current working directory. So, first we see the old versin, then the new version. If there are many changes in diffrent parts - those parts are marked with "hunks". Version a is old, version b is new.
