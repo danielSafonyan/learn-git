@@ -1,0 +1,1 @@
+git log command show the a list, history of your commits. To navigate it use up and down arrows and to exit press q.
